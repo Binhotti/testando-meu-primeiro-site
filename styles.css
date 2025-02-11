@@ -1,0 +1,12 @@
+.titulo-centralizado {
+    text-align: center;
+}
+
+.fundo-cabecalho {
+    background-color: bisque;
+    font-size: 60px;
+}
+
+body {
+    font-size: 24px;
+}
